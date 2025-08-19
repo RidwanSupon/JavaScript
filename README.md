@@ -23,6 +23,3 @@ This repo contains notes, code snippets, and mini-projects I’m building while 
 - **VS Code** as my editor
 - **Git & GitHub** for version control
 
----
-
-## 📂 Repository Structure
